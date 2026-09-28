@@ -1,4 +1,4 @@
-# 🤖 Automação com Python (PyAutoGUI)
+# Automação com Python (PyAutoGUI)
 
 Este projeto tem como objetivo **automatizar tarefas repetitivas** do dia a dia em um sistema web.  
 A automação abre o navegador, realiza o login no sistema da empresa e cadastra automaticamente todos os produtos listados no arquivo **`produtos.csv`**.  
@@ -7,7 +7,7 @@ Com isso, elimina-se a necessidade de inserir os dados manualmente, tornando o p
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 - Python 3  
 - PyAutoGUI  
 - Pandas
@@ -15,7 +15,7 @@ Com isso, elimina-se a necessidade de inserir os dados manualmente, tornando o p
 
 ---
 
-## 🧠 Aprendizados
+## Aprendizados
 
 - **Uso do PyAutoGUI** para automatizar cliques, digitação e navegação em sistemas.
 - **Leitura e manipulação de arquivos CSV** com Pandas
@@ -24,18 +24,7 @@ Com isso, elimina-se a necessidade de inserir os dados manualmente, tornando o p
 
 ---
 
-## 📊 Estrutura do CSV
-codigo,marca,tipo,categoria,preco_unitario,custo,obs
-
-MOLO000192,Logitech,Mouse,2,19.95,5.00,Conferir estoque
-
-MOMU000111,Multilaser,Teclado,1,11.99,3.40,
-
-CEAP000101,Apple,Celular,1,1099.00,329.70,
-
----
-
-## ⚙️ Como Executar
+## Como Executar
 1. Clone este Repositório.
    ```bash
    git clone https://github.com/marcosviniciusribeiiro/python-automacao.git
