@@ -37,4 +37,4 @@ Com isso, elimina-se a necessidade de inserir os dados manualmente, tornando o p
    ```bash
    python main.py
 
-#### ⚠️ Observação: Este projeto foi desenvolvido com propósito de estudo. Para adaptá-lo ao seu sistema, será necessário ajustar as coordenadas dos cliques e o fluxo da automação.
+#### ⚠️ Observação: Este projeto foi desenvolvido com propósito de estudo. Para executá-lo, será necessário ajustar as coordenadas dos cliques por causa da variação de tamanho entre monitores.
